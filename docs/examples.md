@@ -1,4 +1,4 @@
-##### `doxy@ESTAT` Examples
+##### Examples
 
 We present below some examples of (artificial and actual) use of the script (whose usage is 
 described [here](usage.md)), and also provide with all related help for the implementation.

@@ -1,4 +1,4 @@
-##### `doxy@ESTAT` guidelines
+##### Guidelines and templates
 
 <hr size="5" style="color:black;background-color:black;" />
 

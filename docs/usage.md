@@ -1,4 +1,4 @@
-##### `doxy@ESTAT` usage
+##### Command usage
 
 First, document your source code file(s) according to the [guidelines](guidelines.md). Given such source file(s), you can then run the script [`src2mddoc.sh`](https://github.com/gjacopo/udoxy/blob/master/src2mddoc.sh) with the following syntax:
 

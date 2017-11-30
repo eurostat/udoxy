@@ -1,4 +1,4 @@
-#### `doxy@ESTAT` -- Rationale for guidelines adoption 
+#### Rationale for guidelines adoption 
 
 ######  Why documenting your code (if that's not already obvious)?
 
