@@ -1,5 +1,5 @@
-doxy@ESTAT
-===========
+udoxy
+=====
 
 Guidelines and script for generic code documentation of various languages (`R`/`SAS`/`Stata`/`Python`/`Matlab`/`bash`/`DOS`/...).
 ---
