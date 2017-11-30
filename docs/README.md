@@ -1,4 +1,4 @@
-#### `doxy@ESTAT` -- Guidelines and tools for generic code documentation (`R`/`SAS`/`Stata`/`Python`/`bash`/`DOS`/...).
+#### Guidelines and tools for generic code documentation (`R`/`SAS`/`Stata`/`Python`/`bash`/`DOS`/...).
 
 ##### Description
 
@@ -12,7 +12,7 @@ To do so, we suggest to adopt a common way for describing and documenting source
 * **an "inline" documentation is systematically inserted in the header** (_e.g._, top of the program file storing a macro, a function, _etc_...),
 * **this documentation appears as comments** inside the programs (_e.g._, in between `/*` and `*/` marks for many languages),
 * **the human-readable [`markdown`](https://daringfireball.net/projects/markdown/) language is adopted** for writing the source code documentation,
-* **a (`bash`) script, namely [`src2mddoc.sh`](https://github.com/gjacopo/bodylanguage/blob/master/doxy/src2mddoc.sh),** for the automatic extraction of the formatted documentation header from the source files,
+* **a (`bash`) script, namely [`src2mddoc.sh`](https://github.com/gjacopo/udoxy/blob/master/src2mddoc.sh),** for the automatic extraction of the formatted documentation header from the source files,
 * **the documentation generator [`Doxygen`](http://www.stack.nl/~dimitri/doxygen/) is used** to generate a user-friendly browsable "online" documentation.
 
 Rather than describing IT tools, the purpose of the documentation is to **describe the underlying statistical processes**. Therefore, it is important that the documentation does not restrict to a single programming language or software, but instead supports various different implementations.
