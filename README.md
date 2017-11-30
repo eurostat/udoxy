@@ -1,7 +1,7 @@
 udoxy
 =====
 
-Guidelines and script for generic code documentation in various languages (`R`/`SAS`/`Stata`/`Python`/`Matlab`/`bash`/`DOS`/...).
+Guidelines and script for generic code documentation in various languages (`bash`/`Perl`/`Python`/`R`/`Matlab`/`SAS`/`Stata`/`DOS`/...).
 ---
 
 **About**
