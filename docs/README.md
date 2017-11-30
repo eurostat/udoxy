@@ -1,4 +1,4 @@
-#### Guidelines and tools for generic code documentation (`bash`/`Perl`/`Python`/`R`/`SAS`/`Stata`/`DOS`/...).
+#### Guidelines and tools for generic code documentation (`bash`/`Perl`/`Python`/`R`/`Matlab`/`SAS`/`Stata`/`DOS`/...).
 
 ##### Description
 
