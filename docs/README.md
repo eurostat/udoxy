@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/112584892.svg)](https://zenodo.org/badge/latestdoi/112584892)
+
 #### Guidelines and tools for generic code documentation (`bash`/`Perl`/`Python`/`R`/`Matlab`/`SAS`/`Stata`/`DOS`/...).
 
 ##### Description
