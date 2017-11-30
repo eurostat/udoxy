@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/112584892.svg)](https://zenodo.org/badge/latestdoi/112584892)
 udoxy
 =====
 
