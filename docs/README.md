@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/112584892.svg)](https://zenodo.org/badge/latestdoi/112584892)
 
-#### Guidelines and script for the generic documentation of source code implemented in various programming languages (`bash`/`Perl`/`Python`/`R`/`Matlab`/`SAS`/`Stata`/`DOS`/...).
+#### _Guidelines and script for the generic documentation of source code implemented in various programming languages (`bash`/`Perl`/`Python`/`R`/`Matlab`/`SAS`/`Stata`/`DOS`/...)._
 
 ##### Description
 
