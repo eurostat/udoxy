@@ -10,7 +10,7 @@ Guidelines and script for generic documentation of source code implemented in va
 We provide hereby a set of common guidelines and templates for a generic inline source code documentation (using `markdown` language) as well as a `bash` script for the automatic generation of a derived online documentation (using `Doxygen` generator). 
 
 <table align="center">
-    <tr> <td align="left"><i>documentation</i></td> <td align="left">available at: https://gjacopo.github.io/udoxy/</td> </tr> 
+    <tr> <td align="left"><i>documentation</i></td> <td align="left">available at: https://eurostat.github.io/udoxy/</td> </tr> 
     <tr> <td align="left"><i>since</i></td> <td align="left">2016</td> </tr> 
     <tr> <td align="left"><i>license</i></td> <td align="left"><a href="https://joinup.ec.europa.eu/sites/default/files/eupl1.1.-licence-en_0.pdfEUPL">EUPL</a> </td> </tr> 
 </table>
@@ -31,7 +31,7 @@ Note that this way, it is not necessary to "group" the source code that is docum
 
 <table>
 <tr>
-<td align="centre"><kbd><img src="https://github.com/gjacopo/udoxy/blob/master/docs/example_ping.png" alt="example PING quantile" width="700"  align="centre"> </kbd></td>
+<td align="centre"><kbd><img src="https://github.com/eurostat/udoxy/blob/master/docs/example_ping.png" alt="example PING quantile" width="700"  align="centre"> </kbd></td>
 </tr>
 <footer>
 <td align="centre"><i>Example of "agnostic" documentation using the same generic templates.</i></td>
@@ -40,8 +40,8 @@ Note that this way, it is not necessary to "group" the source code that is docum
 
 **<a name="TableofContents"></a>Table of Contents**
 
-* [rationale](https://github.com/gjacopo/udoxy/blob/master/docs/rationale.md): Rationale behind these choices (of documentation language, of documentation generator,...) that have been made.
-* [guidelines](https://github.com/gjacopo/udoxy/blob/master/docs/guidelines.md): Set of guidelines used for the documentation of various programs (function/macro/script/...) in different languages, _e.g._
+* [rationale](https://github.com/eurostat/udoxy/blob/master/docs/rationale.md): Rationale behind these choices (of documentation language, of documentation generator,...) that have been made.
+* [guidelines](https://github.com/eurostat/udoxy/blob/master/docs/guidelines.md): Set of guidelines used for the documentation of various programs (function/macro/script/...) in different languages, _e.g._
   + generic template,
   + `SAS` rules,
   + `Stata` rules,
@@ -50,8 +50,8 @@ Note that this way, it is not necessary to "group" the source code that is docum
   + `bash` rules,
   + `Matlab` rules,
   + `DOS` rules;
-* [usage](https://github.com/gjacopo/udoxy/blob/master/docs/usage.md): Usage of the script for the extraction of the documentation;
-* [examples](https://github.com/gjacopo/udoxy/blob/master/docs/examples.md): Examples of generation of online browsable documentation.
+* [usage](https://github.com/eurostat/udoxy/blob/master/docs/usage.md): Usage of the script for the extraction of the documentation;
+* [examples](https://github.com/eurostat/udoxy/blob/master/docs/examples.md): Examples of generation of online browsable documentation.
 
 **<a name="Notes"></a>Notes**
 
