@@ -25,7 +25,7 @@ In practice, the source code documentation will be made available not only as an
 * **this documentation appears as comments** inside the programs (_e.g._, in between `/*` and `*/` marks for many languages),
 * **human-readable language [_markdown_](https://daringfireball.net/projects/markdown/) is adopted** for writing the source code documentation,
 * **a (`bash`) script, namely [`src2mddoc.sh`](src2mddoc.sh),** for the automatic extraction of the formatted documentation header from the source files,
-* **documentation generator [_Doxygen_](http://www.stack.nl/~dimitri/doxygen/) is used** to generate a user-friendly browsable "online" documentation.
+* **documentation generator [`Doxygen`](http://www.stack.nl/~dimitri/doxygen/) is used** to generate a user-friendly browsable "online" documentation.
 
 Note that this way, it is not necessary to "group" the source code that is documented (it can be left as is, in its original location), instead it is enough to "centralise" the _markdown_ generated files (though this could be avoided as well).
 
@@ -62,5 +62,5 @@ It can be can easily be extended (_e.g._, slightly adapting the guidelines and t
 
 * Grazzini J. and Lamarche P. (2017): [**Production of social statistics... goes social!**](https://www.conference-service.com/NTTS2017/documents/agenda/data/abstracts/abstract_124.html), in _Proc.  New Techniques and Technologies for Statistics_.
 * Grazzini J. and Pantisano F. (2015): [**Collaborative research-grade software for crowd-sourced data exploration: from context to practice - Part I: Guidelines for scientific evidence provision for policy support based on Big Data and open technologies**](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC94504/lb-na-27094-en-n.pdf), _Publications Office of the European Union_, doi:[10.2788/329540](http://dx.doi.org/10.2788/329540).
-* `doxygen` [main page](https://www.stack.nl/~dimitri/doxygen/).
+* `Doxygen` [main page](https://www.stack.nl/~dimitri/doxygen/).
 * `dexy` [webpage](http://www.dexy.it/).
