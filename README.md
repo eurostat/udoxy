@@ -23,7 +23,7 @@ We adopt a common way for describing and documenting stand-alone source code/pro
 In practice, the source code documentation will be made available not only as an **inline documentation** (visible by those who actually implement the code, _e.g._ through comments in the code), but as a **portable document** (visible by those who run the code, _e.g._ through a browsable interface like html) as well:
 * **an "inline" documentation is systematically inserted in the header** (_e.g._, top of the program file storing a macro, a function, _etc_...),
 * **this documentation appears as comments** inside the programs (_e.g._, in between `/*` and `*/` marks for many languages),
-* **human-readable language [_markdown_](https://daringfireball.net/projects/markdown/) is adopted** for writing the source code documentation,
+* **human-readable language [`markdown`](https://daringfireball.net/projects/markdown/) is adopted** for writing the source code documentation,
 * **a (`bash`) script, namely [`src2mddoc.sh`](src2mddoc.sh),** for the automatic extraction of the formatted documentation header from the source files,
 * **documentation generator [`Doxygen`](http://www.stack.nl/~dimitri/doxygen/) is used** to generate a user-friendly browsable "online" documentation.
 
