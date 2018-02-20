@@ -11,7 +11,7 @@ We provide hereby a set of common guidelines and templates for a generic inline 
 
 <table align="center">
     <tr> <td align="left"><i>documentation</i></td> <td align="left">available at: https://eurostat.github.io/udoxy/</td> </tr> 
-    <tr> <td align="left"><i>status</i></td> <td align="left">since 2016 &ndash; close </td> </tr> 
+    <tr> <td align="left"><i>status</i></td> <td align="left">since 2016 &ndash; closed </td> </tr> 
     <tr> <td align="left"><i>contributors</i></td> 
     <td align="left" valign="middle">
 <a href="https://github.com/gjacopo"><img src="https://github.com/gjacopo.png" width="40"></a>
