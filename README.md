@@ -53,7 +53,7 @@ It can be can easily be extended (_e.g._, slightly adapting the guidelines and t
 
 **About**
 
-<table style="margin: 0 auto;"> <!-- <table align="centre"> -->
+<table style="text-align:center;"> <!-- <table align="centre"> -->
 <tr> <td align="left"><i>documentation</i></td> <td align="left">available at: https://eurostat.github.io/udoxy/</td> </tr> 
     <tr> <td align="left"><i>status</i></td> <td align="left">since 2016 &ndash; closed </td> </tr> 
     <tr> <td align="left"><i>contributors</i></td> 
