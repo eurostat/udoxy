@@ -5,21 +5,7 @@ udoxy
 Guidelines and script for generic documentation of source code implemented in various programming languages (`bash`/`Perl`/`Python`/`R`/`Matlab`/`SAS`/`Stata`/`DOS`/...).
 ---
 
-**About**
-
 We provide hereby a set of common guidelines and templates for a generic inline source code documentation (using `markdown` language) as well as a `bash` script for the automatic generation of a derived online documentation (using `Doxygen` generator). 
-
-<table align="center">
-    <tr> <td align="left"><i>documentation</i></td> <td align="left">available at: https://eurostat.github.io/udoxy/</td> </tr> 
-    <tr> <td align="left"><i>status</i></td> <td align="left">since 2016 &ndash; closed </td> </tr> 
-    <tr> <td align="left"><i>contributors</i></td> 
-    <td align="left" valign="middle">
-<a href="https://github.com/gjacopo"><img src="https://github.com/gjacopo.png" width="40"></a>
-</td> </tr> 
-    <tr> <td align="left"><i>license</i></td> <td align="left"><a href="https://joinup.ec.europa.eu/sites/default/files/eupl1.1.-licence-en_0.pdfEUPL">EUPL</a> </td> </tr> 
-</table>
-
-This material aims at **supporting the development, sharing and reuse of open IT components**, _e.g._, deployed in production environment, and **ensuring complete transparency of in-house computational resources**, _e.g._ regardless of the platform used for the implementation ([Grazzini and Pantisano, 2015; Grazzini and Lamarche, 2017](#References)). 
 
 **<a name="Description"></a>Description**
 
@@ -59,8 +45,23 @@ Note that this way, it is not necessary to "group" the source code that is docum
 
 **<a name="Notes"></a>Notes**
 
+
+This material aims at **supporting the development, sharing and reuse of open IT components**, _e.g._, deployed in production environment, and **ensuring complete transparency of in-house computational resources**, _e.g._ regardless of the platform used for the implementation ([Grazzini and Pantisano, 2015; Grazzini and Lamarche, 2017](#References)). 
+
 The approach proposed herein is adapted to the documenting of stand-alone programs and processes.
 It can be can easily be extended (_e.g._, slightly adapting the guidelines and tools) to support other software/programing languages. 
+
+**About**
+
+<table align="center">
+    <tr> <td align="left"><i>documentation</i></td> <td align="left">available at: https://eurostat.github.io/udoxy/</td> </tr> 
+    <tr> <td align="left"><i>status</i></td> <td align="left">since 2016 &ndash; closed </td> </tr> 
+    <tr> <td align="left"><i>contributors</i></td> 
+    <td align="left" valign="middle">
+<a href="https://github.com/gjacopo"><img src="https://github.com/gjacopo.png" width="40"></a>
+</td> </tr> 
+    <tr> <td align="left"><i>license</i></td> <td align="left"><a href="https://joinup.ec.europa.eu/sites/default/files/eupl1.1.-licence-en_0.pdfEUPL">EUPL</a> </td> </tr> 
+</table>
 
 **<a name="References"></a>References**
 
