@@ -19,7 +19,7 @@ In practice, the source code documentation will be made available not only as an
 
 Note that this way, it is not necessary to "group" the source code that is documented (it can be left as is, in its original location), instead it is enough to "centralise" the _markdown_ generated files (though this could be avoided as well).
 
-<table style="text-align:center;">
+<table style="margin: 0 auto;"> 
 <tr>
 <td align="centre"><kbd><img src="https://github.com/eurostat/udoxy/blob/master/docs/example_ping.png" alt="example PING quantile" width="700"  align="centre"> </kbd></td>
 </tr>
