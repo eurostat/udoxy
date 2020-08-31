@@ -19,12 +19,12 @@ In practice, the source code documentation will be made available not only as an
 
 Note that this way, it is not necessary to "group" the source code that is documented (it can be left as is, in its original location), instead it is enough to "centralise" the _markdown_ generated files (though this could be avoided as well).
 
-<table style="margin: 0 auto;"> 
+<table align="centre"> 
 <tr>
-<td align="centre"><kbd><img src="https://github.com/eurostat/udoxy/blob/master/docs/example_ping.png" alt="example PING quantile" width="700"  align="centre"> </kbd></td>
+<td style="text-align:center;"><kbd><img src="https://github.com/eurostat/udoxy/blob/master/docs/example_ping.png" alt="example PING quantile" width="700"  align="centre"> </kbd></td>
 </tr>
 <footer>
-<td align="centre"><i>Example of "agnostic" documentation using the same generic templates.</i></td>
+<td style="text-align:center;" ><i>Example of "agnostic" documentation using the same generic templates.</i></td>
 </footer>
 </table>
 
@@ -53,9 +53,7 @@ It can be can easily be extended (_e.g._, slightly adapting the guidelines and t
 
 **About**
 
-<!--
-<table style="text-align:center;"> <!--  -->
-<table align="centre">
+<table align="centre"> <!--<table style="text-align:center;margin: 0 auto;">-->
 <tr> <td align="left"><i>documentation</i></td> <td align="left">available at: https://eurostat.github.io/udoxy/</td> </tr> 
     <tr> <td align="left"><i>status</i></td> <td align="left">since 2016 &ndash; closed </td> </tr> 
     <tr> <td align="left"><i>contributors</i></td> 
